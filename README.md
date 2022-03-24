@@ -3,7 +3,7 @@
 I am Zhenjie Liu, a junior undergraduate computer science student at University of California, Riverside.
 
 ### Skills
-![python](https://img.shields.io/badge/Language-Python3-blue) ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![python](https://img.shields.io/badge/Language-Python3-blue) ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue) ![Git](https://img.shields.io/badge/Tool-Git-red)
 
 
 ### Currently learning
