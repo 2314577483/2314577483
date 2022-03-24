@@ -3,7 +3,6 @@
 I am Zhenjie Liu, a junior undergraduate computer science student at University of California, Riverside.
 
 ### Skills
-https://img.shields.io/badge/Python-3-blue
 
 ### Currently learning
 - MySQL
