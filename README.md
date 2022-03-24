@@ -7,4 +7,4 @@ I am Zhenjie Liu, a junior undergraduate computer science student at University 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?2314577483=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhenjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=2314577483)](https://github.com/2314577483/github-readme-stats)
