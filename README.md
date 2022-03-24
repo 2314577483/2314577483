@@ -5,7 +5,7 @@ I am Zhenjie Liu, a junior undergraduate computer science student at University 
 ### Skills
 ![python](https://img.shields.io/badge/Language-Python3-blue) ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue) ![C](https://img.shields.io/badge/Language-C-blue) ![Java](https://img.shields.io/badge/Language-Java-blue)
 
-![Git](https://img.shields.io/badge/Tool-Git-red) ![CMake](https://img.shields.io/badge/Tool-CMake-red)
+![github](https://img.shields.io/badge/Tool-Github-red) ![Git](https://img.shields.io/badge/Tool-Git-red) ![CMake](https://img.shields.io/badge/Tool-CMake-red)
 
 
 ### Currently learning
